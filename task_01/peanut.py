@@ -3,6 +3,6 @@
 """ Package and module creation"""
 
 
-BUTTER = True
+BUTTER = 'BUTTER'
 
-OIL = False
+OIL = None
